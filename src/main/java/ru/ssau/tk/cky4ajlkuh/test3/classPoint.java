@@ -15,8 +15,8 @@ public class classPoint
 
     public void Points()
     {
-        System.out.print(x);
-        System.out.print(y);
-        System.out.print(z);
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
     }
 }
